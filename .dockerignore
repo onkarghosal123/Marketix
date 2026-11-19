@@ -1,0 +1,9 @@
+```dockerignore
+.git
+**/node_modules
+**/.env
+**/.env.*
+!.env.example
+frontend/dist
+npm-debug.log*
+```
